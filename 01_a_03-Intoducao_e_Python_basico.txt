@@ -1,0 +1,1 @@
+Apenas aulas básicas de como funciona o Python até orientação a objetos e uma passada por cima dos conceitos de ciência de dados.
